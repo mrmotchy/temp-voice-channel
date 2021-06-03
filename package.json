@@ -1,0 +1,16 @@
+{
+  "name": "jointocreatebot",
+  "version": "1.0.0",
+  "description": "JointoCreateBOT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "cpt.motchy",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "node.js": "0.0.1-security"
+  }
+}
