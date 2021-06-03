@@ -1,6 +1,6 @@
 <img align="right" src="https://raw.githubusercontent.com/mrmotchy/stuff/main/Kopie%20von%20Black%20and%20Red%20Gaming%20YouTube%20Channel%20Art.png" height="300" width="500">
 
-# Discord application bot
+# Temporary voice channels
 
 [![Downloads](https://img.shields.io/github/downloads/jagrosh/MusicBot/total.svg)](https://discord.gg/9ZrzNkzeN4)
 [![Stars](https://img.shields.io/github/stars/jagrosh/MusicBot.svg)](https://discord.gg/9ZrzNkzeN4)
@@ -18,17 +18,16 @@
   * Easy to run
   * Fast loading
   * No external keys needed (besides a Discord Bot token)
-  * Smooth application
-  * Clean and beautiful apply's
+  * Smooth creating channels
 
-## Up to 500 questions
+## Working perfectly
 
-![](https://github.com/mrmotchy/stuff/blob/main/5ws-h.jpg?raw=true)
+![](https://media.giphy.com/media/jIuFgHQjbPyeVJEini/giphy.gif)
   
   
 ## Made with ❤️ and javascript
 
-![](https://github.com/mrmotchy/stuff/blob/main/Bild_2021-05-26_224056.png?raw=true)
+![](https://www.deutschlandfunk.de/media/thumbs/f/fd8809a9ea11ff5cf290d79682745fffv1_max_755x425_b3535db83dc50e27c1bb1392364c95a2.jpg?key=5f6454)
 
 ## Installation
 
@@ -38,4 +37,4 @@
 
  ### Click [here](https://dsc.gg/dst74) to join my discord server !
 
-![](https://github.com/mrmotchy/stuff/blob/main/Bild_2021-05-26_224505.png?raw=true)
+![](https://imagepool.yourfone.de/v2/page/magazin/discord-app/v18244-page-magazin-discord-app-header/v18244-page-magazin-discord-app-header-1200px.jpg)
