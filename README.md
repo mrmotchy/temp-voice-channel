@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/mrmotchy/stuff/main/Kopie%20von%20Black%20and%20Red%20Gaming%20YouTube%20Channel%20Art.png" height="200" width="300">
+<img align="right" src="https://raw.githubusercontent.com/mrmotchy/stuff/main/Kopie%20von%20Black%20and%20Red%20Gaming%20YouTube%20Channel%20Art.png" height="300" width="500">
 
 # Discord application bot
 
