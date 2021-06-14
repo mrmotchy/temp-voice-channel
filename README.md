@@ -37,4 +37,4 @@
 
  ### Click [here](https://dsc.gg/dst74) to join my discord server !
 
-![](https://imagepool.yourfone.de/v2/page/magazin/discord-app/v18244-page-magazin-discord-app-header/v18244-page-magazin-discord-app-header-1200px.jpg)
+![](https://github.com/mrmotchy/stuff/blob/main/adada.gif?raw=true)[https://dsc.gg/dst74]
