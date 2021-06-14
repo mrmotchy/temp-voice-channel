@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/mrmotchy/stuff/main/Kopie%20von%20Black%20and%20Red%20Gaming%20YouTube%20Channel%20Art.png" height="300" width="500">
+<img align="right" src="https://github.com/mrmotchy/stuff/blob/main/mr.motchy%20(2).png?raw=true" height="300" width="540">
 
 # Temporary voice channels
 
